@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "709752073126",
+    "firebase_url": "https://voice-of-the-stone-2022-default-rtdb.firebaseio.com",
+    "project_id": "voice-of-the-stone-2022",
+    "storage_bucket": "voice-of-the-stone-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709752073126:android:11c9cf371efb23d7503d67",
+        "android_client_info": {
+          "package_name": "com.adbu.qrgrave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709752073126-oqtfjci6bqhqdctqeu54pr4spfb4ueps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fsJjTpjY0LE-sKUx7HMTlVYJS8awHfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709752073126-oqtfjci6bqhqdctqeu54pr4spfb4ueps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709752073126:android:d5d1a085beb5cae6503d67",
+        "android_client_info": {
+          "package_name": "com.adbu.voiceofthestone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709752073126-oqtfjci6bqhqdctqeu54pr4spfb4ueps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fsJjTpjY0LE-sKUx7HMTlVYJS8awHfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709752073126-oqtfjci6bqhqdctqeu54pr4spfb4ueps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

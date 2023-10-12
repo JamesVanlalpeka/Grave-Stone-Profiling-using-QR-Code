@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_edit_profile"
+        android:icon="@drawable/profile_icon"
+        android:title="Edit Profile"/>
+
+    <item android:id="@+id/menu_qr_code"
+        android:icon="@drawable/qr_code_icon"
+        android:title="Generate Qr Code"/>
+
+    <item android:id="@+id/menu_delete_user"
+        android:icon="@drawable/delete_user_icon"
+        android:title="Delete Account"/>
+
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/logout_icon"
+        android:title="Logout"/>
+
+</menu>

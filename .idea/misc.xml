@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/qrgrave/app/src/main/res/layout/activity_email_verification.xml" value="0.17074275362318841" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.105" />
+        <entry key="app/src/main/res/drawable/add_icon.xml" value="0.153" />
+        <entry key="app/src/main/res/drawable/custom_button_back.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/ic_baseline_horizontal_rule_24.xml" value="0.2015" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/logout_icon.xml" value="0.117" />
+        <entry key="app/src/main/res/drawable/menu.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/menu_icon.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/qr_code_icon.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_delete.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_email_verification.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_first.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2772758860319666" />
+        <entry key="app/src/main/res/layout/activity_main_photo.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_photo_list_display.xml" value="0.338135593220339" />
+        <entry key="app/src/main/res/layout/activity_qrgenerator.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_qrscanner.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_upload_photo.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_upload_profile_info.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_user_profile_landing.xml" value="0.31026438569206843" />
+        <entry key="app/src/main/res/layout/activity_user_profile_landing_image_list_view.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/header.xml" value="0.20606884057971014" />
+        <entry key="app/src/main/res/layout/image_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/navheader.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/iconmenu.xml" value="0.2078125" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.2078125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/a.webp.xml" value="0.1125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.1125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
